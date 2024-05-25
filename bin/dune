@@ -1,0 +1,4 @@
+(executable
+ (public_name cps_callcc_yinyang)
+ (name main)
+ (libraries cps_callcc_yinyang))
